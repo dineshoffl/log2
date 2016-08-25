@@ -23,6 +23,8 @@ private static Button button;
                         Intent intent=new Intent(Main2Activity.this,Main3Activity.class);
                         startActivity(intent);
                         Toast.makeText(Main2Activity.this, "github", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(Main2Activity.this, "github2", Toast.LENGTH_SHORT).show();
+
                     }
                 }
         );
